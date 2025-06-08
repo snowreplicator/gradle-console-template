@@ -35,15 +35,6 @@ dependencies {
     // https://mvnrepository.com/artifact/ch.qos.logback/logback-classic
     implementation 'ch.qos.logback:logback-classic:1.5.17'
 
-    // https://mvnrepository.com/artifact/com.google.api-client/google-api-client
-    implementation 'com.google.api-client:google-api-client:2.7.2'
-
-    // https://mvnrepository.com/artifact/com.google.oauth-client/google-oauth-client-jetty
-    implementation 'com.google.oauth-client:google-oauth-client-jetty:1.38.0'
-
-    // https://mvnrepository.com/artifact/com.google.apis/google-api-services-sheets
-    implementation 'com.google.apis:google-api-services-sheets:v4-rev20250211-2.0.0'
-
     // https://mvnrepository.com/artifact/cz.jirutka.rsql/rsql-parser
     implementation 'cz.jirutka.rsql:rsql-parser:2.1.0'
 
