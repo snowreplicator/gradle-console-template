@@ -1,11 +1,13 @@
 package com.snowreplicator;
 
+import lombok.extern.slf4j.Slf4j;
 
+@Slf4j
 public class Main {
 
     public static void main(String[] args) {
-        System.out.println("start");
+        log.info("--- start ---");
 
-        System.out.println("end");
+        log.info("--- end ---");
     }
 }
